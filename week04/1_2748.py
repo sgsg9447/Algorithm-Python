@@ -12,5 +12,3 @@ def fibo_dp(n):
 
 print(fibo_dp(n))
 
-
-

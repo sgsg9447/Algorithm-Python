@@ -16,3 +16,5 @@ for _ in range(t):
                 dp[i] += dp[i-coin]
 
     print(dp[m])
+
+
